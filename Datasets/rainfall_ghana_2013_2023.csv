@@ -1,0 +1,661 @@
+Year,Month,Region,Rainfall_mm
+2013,1,Greater Accra,114.9
+2013,1,Ashanti,95.9
+2013,1,Northern,119.4
+2013,1,Volta,145.7
+2013,1,Western,93.0
+2013,2,Greater Accra,93.0
+2013,2,Ashanti,147.4
+2013,2,Northern,123.0
+2013,2,Volta,85.9
+2013,2,Western,116.3
+2013,3,Greater Accra,86.1
+2013,3,Ashanti,86.0
+2013,3,Northern,107.3
+2013,3,Volta,42.6
+2013,3,Western,48.3
+2013,4,Greater Accra,83.1
+2013,4,Ashanti,69.6
+2013,4,Northern,109.4
+2013,4,Volta,72.8
+2013,4,Western,57.6
+2013,5,Greater Accra,144.0
+2013,5,Ashanti,93.2
+2013,5,Northern,102.0
+2013,5,Volta,57.3
+2013,5,Western,83.7
+2013,6,Greater Accra,103.3
+2013,6,Ashanti,65.5
+2013,6,Northern,111.3
+2013,6,Volta,82.0
+2013,6,Western,91.2
+2013,7,Greater Accra,81.9
+2013,7,Ashanti,155.6
+2013,7,Northern,99.6
+2013,7,Volta,68.3
+2013,7,Western,124.7
+2013,8,Greater Accra,63.4
+2013,8,Ashanti,106.3
+2013,8,Northern,41.2
+2013,8,Volta,60.2
+2013,8,Western,105.9
+2013,9,Greater Accra,122.2
+2013,9,Ashanti,105.1
+2013,9,Northern,96.5
+2013,9,Volta,91.0
+2013,9,Western,55.6
+2013,10,Greater Accra,78.4
+2013,10,Ashanti,86.2
+2013,10,Northern,131.7
+2013,10,Volta,110.3
+2013,10,Western,47.1
+2013,11,Greater Accra,109.7
+2013,11,Ashanti,88.4
+2013,11,Northern,79.7
+2013,11,Volta,118.4
+2013,11,Western,130.9
+2013,12,Greater Accra,127.9
+2013,12,Ashanti,74.8
+2013,12,Northern,90.7
+2013,12,Volta,109.9
+2013,12,Western,129.3
+2014,1,Greater Accra,85.6
+2014,1,Ashanti,94.4
+2014,1,Northern,66.8
+2014,1,Volta,64.1
+2014,1,Western,124.4
+2014,2,Greater Accra,140.7
+2014,2,Ashanti,97.8
+2014,2,Northern,130.1
+2014,2,Volta,110.8
+2014,2,Western,80.6
+2014,3,Greater Accra,110.8
+2014,3,Ashanti,146.1
+2014,3,Northern,98.9
+2014,3,Volta,146.9
+2014,3,Western,21.4
+2014,4,Greater Accra,124.7
+2014,4,Ashanti,102.6
+2014,4,Northern,91.0
+2014,4,Volta,102.8
+2014,4,Western,40.4
+2014,5,Greater Accra,93.4
+2014,5,Ashanti,110.7
+2014,5,Northern,144.3
+2014,5,Volta,84.5
+2014,5,Western,75.7
+2014,6,Greater Accra,84.9
+2014,6,Ashanti,127.5
+2014,6,Northern,109.9
+2014,6,Volta,84.1
+2014,6,Western,115.4
+2014,7,Greater Accra,102.9
+2014,7,Ashanti,129.1
+2014,7,Northern,78.9
+2014,7,Volta,90.2
+2014,7,Western,88.2
+2014,8,Greater Accra,56.1
+2014,8,Ashanti,108.9
+2014,8,Northern,107.8
+2014,8,Volta,100.2
+2014,8,Western,93.0
+2014,9,Greater Accra,57.5
+2014,9,Ashanti,87.4
+2014,9,Northern,89.7
+2014,9,Volta,75.9
+2014,9,Western,95.2
+2014,10,Greater Accra,112.1
+2014,10,Ashanti,156.6
+2014,10,Northern,105.2
+2014,10,Volta,107.7
+2014,10,Western,97.8
+2014,11,Greater Accra,42.4
+2014,11,Ashanti,99.2
+2014,11,Northern,101.8
+2014,11,Volta,173.9
+2014,11,Western,94.2
+2014,12,Greater Accra,109.0
+2014,12,Ashanti,99.0
+2014,12,Northern,64.9
+2014,12,Volta,134.3
+2014,12,Western,122.6
+2015,1,Greater Accra,123.7
+2015,1,Ashanti,72.7
+2015,1,Northern,142.1
+2015,1,Volta,57.9
+2015,1,Western,117.6
+2015,2,Greater Accra,165.7
+2015,2,Ashanti,70.3
+2015,2,Northern,83.0
+2015,2,Volta,103.0
+2015,2,Western,84.9
+2015,3,Greater Accra,53.5
+2015,3,Ashanti,102.1
+2015,3,Northern,68.1
+2015,3,Volta,114.2
+2015,3,Western,72.4
+2015,4,Greater Accra,146.5
+2015,4,Ashanti,76.5
+2015,4,Northern,90.3
+2015,4,Volta,124.4
+2015,4,Western,63.1
+2015,5,Greater Accra,106.8
+2015,5,Ashanti,139.2
+2015,5,Northern,51.8
+2015,5,Volta,105.5
+2015,5,Western,107.8
+2015,6,Greater Accra,123.5
+2015,6,Ashanti,62.9
+2015,6,Northern,60.4
+2015,6,Volta,115.7
+2015,6,Western,108.9
+2015,7,Greater Accra,107.5
+2015,7,Ashanti,110.4
+2015,7,Northern,79.6
+2015,7,Volta,107.0
+2015,7,Western,108.8
+2015,8,Greater Accra,78.6
+2015,8,Ashanti,156.0
+2015,8,Northern,114.2
+2015,8,Volta,64.3
+2015,8,Western,119.7
+2015,9,Greater Accra,70.8
+2015,9,Ashanti,123.6
+2015,9,Northern,134.8
+2015,9,Volta,75.4
+2015,9,Western,128.9
+2015,10,Greater Accra,112.4
+2015,10,Ashanti,124.7
+2015,10,Northern,156.9
+2015,10,Volta,92.6
+2015,10,Western,77.4
+2015,11,Greater Accra,73.3
+2015,11,Ashanti,75.5
+2015,11,Northern,97.7
+2015,11,Volta,110.2
+2015,11,Western,108.3
+2015,12,Greater Accra,124.8
+2015,12,Ashanti,100.4
+2015,12,Northern,143.6
+2015,12,Volta,92.1
+2015,12,Western,181.6
+2016,1,Greater Accra,118.8
+2016,1,Ashanti,74.3
+2016,1,Northern,67.9
+2016,1,Volta,114.5
+2016,1,Western,93.3
+2016,2,Greater Accra,121.4
+2016,2,Ashanti,114.2
+2016,2,Northern,97.8
+2016,2,Volta,74.6
+2016,2,Western,54.6
+2016,3,Greater Accra,86.6
+2016,3,Ashanti,125.7
+2016,3,Northern,106.4
+2016,3,Volta,62.6
+2016,3,Western,105.2
+2016,4,Greater Accra,111.6
+2016,4,Ashanti,73.5
+2016,4,Northern,104.6
+2016,4,Volta,101.7
+2016,4,Western,65.7
+2016,5,Greater Accra,110.7
+2016,5,Ashanti,116.8
+2016,5,Northern,132.5
+2016,5,Volta,131.6
+2016,5,Western,58.7
+2016,6,Greater Accra,71.9
+2016,6,Ashanti,115.5
+2016,6,Northern,115.4
+2016,6,Volta,115.5
+2016,6,Western,215.6
+2016,7,Greater Accra,117.1
+2016,7,Ashanti,134.1
+2016,7,Northern,128.6
+2016,7,Volta,119.5
+2016,7,Western,90.5
+2016,8,Greater Accra,122.8
+2016,8,Ashanti,76.8
+2016,8,Northern,92.9
+2016,8,Volta,85.4
+2016,8,Western,102.5
+2016,9,Greater Accra,169.4
+2016,9,Ashanti,44.0
+2016,9,Northern,120.6
+2016,9,Volta,51.6
+2016,9,Western,85.8
+2016,10,Greater Accra,132.7
+2016,10,Ashanti,101.9
+2016,10,Northern,67.7
+2016,10,Volta,78.5
+2016,10,Western,120.4
+2016,11,Greater Accra,78.1
+2016,11,Ashanti,106.5
+2016,11,Northern,101.4
+2016,11,Volta,80.5
+2016,11,Western,164.3
+2016,12,Greater Accra,119.0
+2016,12,Ashanti,39.2
+2016,12,Northern,105.6
+2016,12,Volta,80.1
+2016,12,Western,125.6
+2017,1,Greater Accra,76.2
+2017,1,Ashanti,96.6
+2017,1,Northern,115.1
+2017,1,Volta,126.0
+2017,1,Western,64.0
+2017,2,Greater Accra,90.0
+2017,2,Ashanti,85.8
+2017,2,Northern,80.4
+2017,2,Volta,153.0
+2017,2,Western,112.1
+2017,3,Greater Accra,62.2
+2017,3,Ashanti,127.5
+2017,3,Northern,163.7
+2017,3,Volta,131.0
+2017,3,Western,54.4
+2017,4,Greater Accra,85.5
+2017,4,Ashanti,138.0
+2017,4,Northern,78.8
+2017,4,Volta,113.3
+2017,4,Western,123.2
+2017,5,Greater Accra,72.2
+2017,5,Ashanti,98.2
+2017,5,Northern,2.8
+2017,5,Volta,69.3
+2017,5,Western,92.4
+2017,6,Greater Accra,62.6
+2017,6,Ashanti,149.0
+2017,6,Northern,57.1
+2017,6,Volta,86.8
+2017,6,Western,103.9
+2017,7,Greater Accra,143.2
+2017,7,Ashanti,56.9
+2017,7,Northern,134.9
+2017,7,Volta,100.3
+2017,7,Western,70.6
+2017,8,Greater Accra,113.9
+2017,8,Ashanti,106.0
+2017,8,Northern,82.0
+2017,8,Volta,102.1
+2017,8,Western,88.4
+2017,9,Greater Accra,103.4
+2017,9,Ashanti,119.9
+2017,9,Northern,147.6
+2017,9,Volta,62.9
+2017,9,Western,164.0
+2017,10,Greater Accra,41.4
+2017,10,Ashanti,95.4
+2017,10,Northern,117.6
+2017,10,Volta,108.4
+2017,10,Western,81.3
+2017,11,Greater Accra,93.8
+2017,11,Ashanti,85.2
+2017,11,Northern,82.3
+2017,11,Volta,125.5
+2017,11,Western,110.7
+2017,12,Greater Accra,79.2
+2017,12,Ashanti,127.0
+2017,12,Northern,109.2
+2017,12,Volta,124.4
+2017,12,Western,118.9
+2018,1,Greater Accra,75.1
+2018,1,Ashanti,83.2
+2018,1,Northern,122.4
+2018,1,Volta,118.3
+2018,1,Western,99.4
+2018,2,Greater Accra,103.5
+2018,2,Ashanti,138.3
+2018,2,Northern,82.3
+2018,2,Volta,116.4
+2018,2,Western,93.9
+2018,3,Greater Accra,93.5
+2018,3,Ashanti,133.0
+2018,3,Northern,124.8
+2018,3,Volta,124.4
+2018,3,Western,139.2
+2018,4,Greater Accra,100.6
+2018,4,Ashanti,120.5
+2018,4,Northern,90.7
+2018,4,Volta,109.7
+2018,4,Western,96.1
+2018,5,Greater Accra,102.9
+2018,5,Ashanti,117.9
+2018,5,Northern,75.5
+2018,5,Volta,162.8
+2018,5,Western,69.8
+2018,6,Greater Accra,63.6
+2018,6,Ashanti,134.7
+2018,6,Northern,123.7
+2018,6,Volta,118.7
+2018,6,Western,118.9
+2018,7,Greater Accra,99.6
+2018,7,Ashanti,73.1
+2018,7,Northern,102.3
+2018,7,Volta,79.7
+2018,7,Western,129.3
+2018,8,Greater Accra,95.6
+2018,8,Ashanti,75.2
+2018,8,Northern,90.4
+2018,8,Volta,112.4
+2018,8,Western,83.1
+2018,9,Greater Accra,75.3
+2018,9,Ashanti,107.3
+2018,9,Northern,107.3
+2018,9,Volta,84.8
+2018,9,Western,85.9
+2018,10,Greater Accra,107.0
+2018,10,Ashanti,56.6
+2018,10,Northern,57.8
+2018,10,Volta,78.4
+2018,10,Western,93.6
+2018,11,Greater Accra,109.3
+2018,11,Ashanti,144.3
+2018,11,Northern,125.7
+2018,11,Volta,95.2
+2018,11,Western,99.4
+2018,12,Greater Accra,69.9
+2018,12,Ashanti,99.4
+2018,12,Northern,91.3
+2018,12,Volta,109.7
+2018,12,Western,75.2
+2019,1,Greater Accra,115.6
+2019,1,Ashanti,146.0
+2019,1,Northern,96.7
+2019,1,Volta,112.1
+2019,1,Western,120.7
+2019,2,Greater Accra,88.0
+2019,2,Ashanti,106.7
+2019,2,Northern,100.4
+2019,2,Volta,102.9
+2019,2,Western,76.8
+2019,3,Greater Accra,100.7
+2019,3,Ashanti,114.9
+2019,3,Northern,143.5
+2019,3,Volta,128.8
+2019,3,Western,164.6
+2019,4,Greater Accra,77.0
+2019,4,Ashanti,126.2
+2019,4,Northern,105.5
+2019,4,Volta,165.7
+2019,4,Western,75.8
+2019,5,Greater Accra,74.8
+2019,5,Ashanti,82.0
+2019,5,Northern,36.3
+2019,5,Volta,84.2
+2019,5,Western,77.2
+2019,6,Greater Accra,104.5
+2019,6,Ashanti,110.3
+2019,6,Northern,156.3
+2019,6,Volta,128.5
+2019,6,Western,82.7
+2019,7,Greater Accra,73.0
+2019,7,Ashanti,114.8
+2019,7,Northern,60.4
+2019,7,Volta,154.9
+2019,7,Western,135.4
+2019,8,Greater Accra,85.9
+2019,8,Ashanti,48.6
+2019,8,Northern,140.6
+2019,8,Volta,96.6
+2019,8,Western,137.1
+2019,9,Greater Accra,52.2
+2019,9,Ashanti,82.0
+2019,9,Northern,100.2
+2019,9,Volta,101.4
+2019,9,Western,86.5
+2019,10,Greater Accra,118.7
+2019,10,Ashanti,68.0
+2019,10,Northern,95.7
+2019,10,Volta,103.6
+2019,10,Western,115.4
+2019,11,Greater Accra,121.3
+2019,11,Ashanti,66.3
+2019,11,Northern,54.0
+2019,11,Volta,138.3
+2019,11,Western,110.0
+2019,12,Greater Accra,77.5
+2019,12,Ashanti,146.5
+2019,12,Northern,103.5
+2019,12,Volta,135.4
+2019,12,Western,102.0
+2020,1,Greater Accra,161.8
+2020,1,Ashanti,152.7
+2020,1,Northern,92.5
+2020,1,Volta,129.1
+2020,1,Western,119.4
+2020,2,Greater Accra,141.1
+2020,2,Ashanti,71.1
+2020,2,Northern,120.6
+2020,2,Volta,131.8
+2020,2,Western,47.2
+2020,3,Greater Accra,64.5
+2020,3,Ashanti,38.8
+2020,3,Northern,91.9
+2020,3,Volta,121.5
+2020,3,Western,145.1
+2020,4,Greater Accra,102.2
+2020,4,Ashanti,148.9
+2020,4,Northern,58.6
+2020,4,Volta,48.9
+2020,4,Western,98.3
+2020,5,Greater Accra,111.5
+2020,5,Ashanti,99.0
+2020,5,Northern,38.0
+2020,5,Volta,97.3
+2020,5,Western,60.9
+2020,6,Greater Accra,120.1
+2020,6,Ashanti,111.0
+2020,6,Northern,71.8
+2020,6,Volta,84.6
+2020,6,Western,68.2
+2020,7,Greater Accra,98.1
+2020,7,Ashanti,128.7
+2020,7,Northern,70.4
+2020,7,Volta,115.1
+2020,7,Western,84.1
+2020,8,Greater Accra,76.2
+2020,8,Ashanti,96.8
+2020,8,Northern,68.9
+2020,8,Volta,83.4
+2020,8,Western,64.1
+2020,9,Greater Accra,158.9
+2020,9,Ashanti,101.1
+2020,9,Northern,79.0
+2020,9,Volta,106.4
+2020,9,Western,96.6
+2020,10,Greater Accra,93.4
+2020,10,Ashanti,118.4
+2020,10,Northern,122.7
+2020,10,Volta,84.1
+2020,10,Western,82.7
+2020,11,Greater Accra,91.7
+2020,11,Ashanti,30.9
+2020,11,Northern,54.5
+2020,11,Volta,141.0
+2020,11,Western,149.3
+2020,12,Greater Accra,92.5
+2020,12,Ashanti,117.3
+2020,12,Northern,109.3
+2020,12,Volta,192.4
+2020,12,Western,133.6
+2021,1,Greater Accra,96.2
+2021,1,Ashanti,71.3
+2021,1,Northern,51.8
+2021,1,Volta,106.1
+2021,1,Western,77.3
+2021,2,Greater Accra,57.3
+2021,2,Ashanti,80.6
+2021,2,Northern,67.6
+2021,2,Volta,150.6
+2021,2,Western,126.4
+2021,3,Greater Accra,99.8
+2021,3,Ashanti,144.4
+2021,3,Northern,102.3
+2021,3,Volta,74.2
+2021,3,Western,145.7
+2021,4,Greater Accra,116.2
+2021,4,Ashanti,68.9
+2021,4,Northern,94.3
+2021,4,Volta,73.7
+2021,4,Western,58.5
+2021,5,Greater Accra,127.8
+2021,5,Ashanti,157.3
+2021,5,Northern,58.0
+2021,5,Volta,116.9
+2021,5,Western,80.5
+2021,6,Greater Accra,85.4
+2021,6,Ashanti,82.2
+2021,6,Northern,74.1
+2021,6,Volta,101.5
+2021,6,Western,75.1
+2021,7,Greater Accra,108.1
+2021,7,Ashanti,98.5
+2021,7,Northern,92.8
+2021,7,Volta,72.8
+2021,7,Western,82.7
+2021,8,Greater Accra,122.7
+2021,8,Ashanti,115.0
+2021,8,Northern,70.7
+2021,8,Volta,103.0
+2021,8,Western,122.5
+2021,9,Greater Accra,49.9
+2021,9,Ashanti,116.3
+2021,9,Northern,80.1
+2021,9,Volta,117.1
+2021,9,Western,77.1
+2021,10,Greater Accra,45.9
+2021,10,Ashanti,51.2
+2021,10,Northern,101.4
+2021,10,Volta,107.8
+2021,10,Western,72.9
+2021,11,Greater Accra,119.2
+2021,11,Ashanti,50.2
+2021,11,Northern,98.0
+2021,11,Volta,63.7
+2021,11,Western,80.4
+2021,12,Greater Accra,101.4
+2021,12,Ashanti,74.2
+2021,12,Northern,88.5
+2021,12,Volta,130.2
+2021,12,Western,82.7
+2022,1,Greater Accra,125.1
+2022,1,Ashanti,66.1
+2022,1,Northern,115.9
+2022,1,Volta,143.2
+2022,1,Western,25.9
+2022,2,Greater Accra,76.1
+2022,2,Ashanti,117.3
+2022,2,Northern,93.9
+2022,2,Volta,111.1
+2022,2,Western,81.9
+2022,3,Greater Accra,102.6
+2022,3,Ashanti,95.3
+2022,3,Northern,135.0
+2022,3,Volta,107.6
+2022,3,Western,110.1
+2022,4,Greater Accra,87.6
+2022,4,Ashanti,85.4
+2022,4,Northern,87.0
+2022,4,Volta,111.8
+2022,4,Western,87.4
+2022,5,Greater Accra,108.7
+2022,5,Ashanti,162.3
+2022,5,Northern,126.1
+2022,5,Volta,90.2
+2022,5,Western,136.0
+2022,6,Greater Accra,87.8
+2022,6,Ashanti,38.9
+2022,6,Northern,69.8
+2022,6,Volta,43.9
+2022,6,Western,89.5
+2022,7,Greater Accra,100.6
+2022,7,Ashanti,150.3
+2022,7,Northern,109.8
+2022,7,Volta,93.4
+2022,7,Western,124.9
+2022,8,Greater Accra,33.7
+2022,8,Ashanti,107.1
+2022,8,Northern,123.1
+2022,8,Volta,55.6
+2022,8,Western,134.3
+2022,9,Greater Accra,110.2
+2022,9,Ashanti,87.5
+2022,9,Northern,119.0
+2022,9,Volta,168.1
+2022,9,Western,105.5
+2022,10,Greater Accra,107.4
+2022,10,Ashanti,86.2
+2022,10,Northern,74.5
+2022,10,Volta,124.9
+2022,10,Western,74.3
+2022,11,Greater Accra,102.1
+2022,11,Ashanti,85.7
+2022,11,Northern,114.4
+2022,11,Volta,110.0
+2022,11,Western,131.1
+2022,12,Greater Accra,84.7
+2022,12,Ashanti,91.9
+2022,12,Northern,70.6
+2022,12,Volta,86.7
+2022,12,Western,111.3
+2023,1,Greater Accra,122.7
+2023,1,Ashanti,72.3
+2023,1,Northern,126.1
+2023,1,Volta,140.7
+2023,1,Western,112.4
+2023,2,Greater Accra,156.3
+2023,2,Ashanti,76.8
+2023,2,Northern,62.7
+2023,2,Volta,46.6
+2023,2,Western,144.9
+2023,3,Greater Accra,119.6
+2023,3,Ashanti,98.3
+2023,3,Northern,108.4
+2023,3,Volta,66.2
+2023,3,Western,173.4
+2023,4,Greater Accra,103.9
+2023,4,Ashanti,103.3
+2023,4,Northern,121.8
+2023,4,Volta,114.4
+2023,4,Western,106.7
+2023,5,Greater Accra,76.3
+2023,5,Ashanti,114.1
+2023,5,Northern,156.5
+2023,5,Volta,140.4
+2023,5,Western,147.8
+2023,6,Greater Accra,84.7
+2023,6,Ashanti,70.3
+2023,6,Northern,96.2
+2023,6,Volta,101.7
+2023,6,Western,132.8
+2023,7,Greater Accra,49.2
+2023,7,Ashanti,145.9
+2023,7,Northern,95.3
+2023,7,Volta,87.2
+2023,7,Western,69.6
+2023,8,Greater Accra,50.4
+2023,8,Ashanti,124.7
+2023,8,Northern,102.2
+2023,8,Volta,61.3
+2023,8,Western,61.1
+2023,9,Greater Accra,89.9
+2023,9,Ashanti,150.1
+2023,9,Northern,92.2
+2023,9,Volta,54.9
+2023,9,Western,92.6
+2023,10,Greater Accra,91.8
+2023,10,Ashanti,19.1
+2023,10,Northern,98.4
+2023,10,Volta,93.1
+2023,10,Western,120.9
+2023,11,Greater Accra,155.5
+2023,11,Ashanti,133.8
+2023,11,Northern,91.9
+2023,11,Volta,66.8
+2023,11,Western,177.2
+2023,12,Greater Accra,101.8
+2023,12,Ashanti,100.4
+2023,12,Northern,99.3
+2023,12,Volta,105.9
+2023,12,Western,95.7
